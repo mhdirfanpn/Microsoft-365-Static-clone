@@ -1,0 +1,474 @@
+.header1{
+    height: 56px;
+    width: 100%;
+    background: #fff;
+    display: flex;
+}
+body{
+    margin: 0;
+}
+
+.logo{
+    height: 23px;
+    width: auto;
+    margin-left: 151px;
+    margin-top: 0px;
+}
+.header2{
+    height: 60px;
+    width: 100%;
+    background: #0078d4;
+    display: flex;
+   
+}
+
+
+
+
+
+.three:hover {
+    text-decoration: underline;
+  }
+
+  
+  .arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    margin-left: 6px;
+  }
+
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+
+  .logodiv,.three{
+    padding: 14px;
+  }
+
+  .three{
+    margin-top: -9px;
+    font-size: 14px;
+  }
+  
+
+
+
+
+.m1{
+    margin-left: 554px;
+}
+
+.searchimg{
+    height: 22px;
+}
+.sear{
+    margin-top: -34px;
+    margin-left: 42px;
+}
+
+.signimg{
+    height: 26px;
+}
+
+.user{
+    margin-top: -33px;
+    margin-left: 50px;
+}
+
+.body1{
+    height: 600px;
+    width: 100%;
+    background: #0078d4;
+    background-image: url("https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Hero-M365-Screenplates-Update-Excel:VP5-1920x600");
+}
+
+.cartimg{
+    height: 18px;
+    margin-left: -17px;
+}
+.body111{
+    height: 37px;
+    width: 114px;
+    background: #0067b8;
+    float: left;
+    color: #fff;
+    text-align: center;
+
+}
+.t1{
+    margin-top: 6px;
+    /* font-family: "Segoe UI", SegoeUI, "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    line-height: 24px;
+   
+}
+.arrow1 {
+    border: solid #0067b8;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+  
+  .right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+
+  .t2{
+    color: #0067b8;
+    padding-left: 35px;
+    margin-top: 7px;
+  }
+
+  .body112{
+    float: left;
+  }
+  .body11{
+    padding-left: 203px;
+    padding-top: 192px;
+}
+  
+
+  .m2{
+    font-size: 38px;
+    line-height: 24px;
+    font-family: "Segoe UI", SegoeUI, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+
+  .m3{
+    font-family: "Segoe UI", SegoeUI, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 24px;
+  }
+
+  .arro{
+    margin-left: 646px;
+  }
+
+  .body2{
+    height: 186px;
+    width: auto;
+    background: #fff;
+  }
+
+  .img1{
+    float: left;
+    padding-left: 646px;
+    padding-top: 40px;
+  }
+
+  .img2{
+    float: left;
+    padding-left: 187px;
+    padding-top: 40px;
+  }
+
+  .img3{
+    float: left;
+    padding-left: 187px;
+    padding-top: 40px;
+  }
+
+  .img4{
+    float: left;
+    padding-left: 187px;
+    padding-top: 40px;
+  }
+
+  .hyp1{
+    clear: left;
+    float: left;
+    padding-left: 577px;
+    padding-top: 6px;
+    color: #0067b8;;
+  }
+
+  .hypcol{
+    color: #0067b8;;
+  }
+
+  .hyp2{
+    float: left;
+    padding-left: 64px;
+    padding-top: 6px;
+  }
+
+  .hyp3{
+    float: left;
+    padding-left: 92px;
+    padding-top: 6px;
+  }
+
+  .hyp4{
+    float: left;
+    padding-left: 120px;
+    padding-top: 6px;
+  }
+
+  .body3{
+    height: 550px;
+    width: 100%;
+    background: #fff;
+  }
+
+  .body31{
+    width: 380px;
+    height: 550px;
+    
+    float: left;
+    margin-left: 154px;
+  }
+  .body32{
+    width: 380px;
+    height: 550px;
+   
+    float: left;
+    margin-left: 30px;
+  }
+  .body33{
+    width: 380px;
+    height: 550px;
+ 
+    float: left;
+    margin-left: 30px;
+    
+  }
+  .body34{
+    width: 380px;
+    height: 550px;
+  
+    float: left;
+    margin-left: 30px;
+    
+  }
+  .new1{
+   
+    height: 30px;
+    width: 60px;
+    margin-top: -10px;
+    background: #ffb900;
+    
+  }
+  .new11{
+    text-align: center;
+    padding-top: 6px;
+  }
+  .imgh1{
+    margin-top: -18px;
+    font-size: 20px;
+  }
+
+  .imgp1{
+    font-family: "Segoe UI", SegoeUI, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 24px;
+  }
+  .t3{
+    margin-top: 4px;
+    color: #0067b8;
+  }
+
+  .t3:hover {
+    text-decoration: underline;
+  }
+
+.inner{
+    padding-top: 42px;
+}
+
+.body4{
+    position: relative;
+    height: 590px;
+    width: 1627px;
+    margin-left: 165px;
+    background-image: url("https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-MSFT-hero-Edge:VP5-1596x600");
+    background-repeat: no-repeat;
+    
+}
+
+.whitebox{
+    height: 275px;
+    width: 518px;
+    background: #fff;
+    position: absolute;
+    top: 169px;
+    left: 49px;
+    
+}
+
+.content1{
+  padding-left: 43px;
+  padding-top: 40px;
+}
+
+.cont1{
+  font-family: "Segoe UI", SegoeUI, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 24px;
+}
+
+.contenth1{
+  font-family: "Segoe UI", SegoeUI, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 24px;
+}
+
+.btn1{
+  color: #fff;
+  background-color:#0078d4;
+   border: #fff;
+   height: 40px;
+   width: 130px;
+   font-size: 16px;
+}
+
+.body5{
+  height: 100px;
+  width: 100%;
+  background: #fff;
+  height: 155px;
+}
+
+.bodyh5{
+  padding-left: 154px;
+  padding-top: 105px;
+}
+
+.body6{
+  height: 200px;
+  width: 100%;
+  position: relative;
+ 
+  display: flex;
+}
+.icon{
+  height: 30px;
+  margin-top: 7px;
+  padding: 10px;
+}
+.txt{
+  margin-left: 150px;
+  margin-top: 25px;
+  font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;;
+}
+
+
+
+.arrow2{
+  height: 40px;
+  width: 110px;
+  /* background: grey; */
+  position:absolute;
+  top: 77px;
+  left: 1777px;
+  background: transparent;
+  background-image: linear-gradient(rgba(0,0,0,.15),rgba(0,0,0,.15));
+  font-weight: 700;
+  border-color: #fff;
+  background-color:#f2f2f2;
+  cursor: pointer;
+}
+
+.arrow2:hover{
+  background-color: transparent
+}
+
+.footer{
+  height: 360px;
+  width: 100%;
+  background: #f2f2f2;
+  position: absolute;
+  font-size: 12px;
+  font-family: "Segoe UI", SegoeUI, "Helvetica Neue", Helvetica, Arial, sans-seri;
+  color:  #808080;
+  line-height: 16px;
+}
+
+.f1{
+  height: 300px;
+  width: 230px;
+  position: relative;
+  left: 135px;
+  float: left;
+  padding-top: 20px;
+}
+
+.f2{
+  height: 300px;
+  width: 230px;
+  position: relative;
+  left: 190px;
+  float: left;
+  padding-top: 20px;
+}
+
+.f3{
+  height: 300px;
+  width: 230px;
+  position: relative;
+  left: 231px;
+  float: left;
+  padding-top: 20px;
+}
+
+.f4{
+  height: 300px;
+  width: 230px;
+  position: relative;
+  left: 257px;
+  padding-top: 20px;
+  float: left;
+}
+
+.f5{
+  height: 300px;
+  width: 230px;
+  position: relative;
+  left: 305px;
+  float: left;
+  padding-top: 20px;
+}
+
+.f6{
+  height: 300px;
+  width: 230px;
+  position: relative;
+  left: 349px;
+  float: left;
+  padding-top: 20px;
+}
+
+.lfooter{
+  clear: left;
+  height: 40px;
+  width: 100%;
+  display: flex;
+}
+
+.fh{
+  color: #666666;
+}
+.glob{
+  height: 20px;
+  width: auto;
+  padding-left: 128px;
+  margin-top: 2px
+}
+
+.ind{
+  padding-left: 7px;
+  margin-top: 5px;
+}
+
+.lf{
+  margin-left: 926px;
+  margin-top: -12px;
+  display: flex;
+  padding-left: 3px;
+}
+
+.lf1{
+  padding-left: 25px;
+}
+
+.o:hover{
+  text-decoration: underline;
+}
